@@ -1,0 +1,15 @@
+Rteme       = svRteme(StepCM,:);
+Vteme       = svVteme(StepCM,:);
+Ateme       = svAteme(StepCM,:);
+rj2000      = svrj2000(StepCM,:);
+vj2000      = svvj2000(StepCM,:);
+aj2000      = svaj2000(StepCM,:);
+recef       = svrecef(StepCM,:);
+vecef       = svvecef(StepCM,:);
+aecef       = svaecef(StepCM,:);
+Qjo         = svQjo(StepCM,:)';
+latgc       = svlatgc(StepCM,:);
+latgd       = svlatgd(StepCM,:);
+lon         = svlon(StepCM,:);
+hellp       = svhellp(StepCM,:);
+Worb_j      = svWorb_j(StepCM,:)';

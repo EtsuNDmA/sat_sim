@@ -1,0 +1,1 @@
+Rho=atmgost(rj2000,hellp,DayOfYear,utc,gst_mn,rtasc,decl,F107,F81,Kp);
